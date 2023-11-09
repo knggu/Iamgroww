@@ -4,11 +4,11 @@
 Chest X-ray 사진으로 normal 과 pneumonia(폐렴증상) 구분하기<br/>
 가장 기본 노드 세팅 결과<br/>
 
-![image1](./basic setting.png)
+![image1](./basic_setting.png)
 
 기본 노드에서 epoch, batch_size, dense레이어 주석처리 결과<br/>
 
-![image1](./basic setting1.png)
+![image1](./basic_setting1.png)
 
 기본 노드에서 epoch(45), date agument(좌우반전), callback 등 결과<br/>
 
