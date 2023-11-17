@@ -37,7 +37,8 @@ Two Stage Segmentation 기술을 적용한다면<br/>
 다리 사이나, 비슷한 색으로 인하여 구분하지 못하는 것을 해결할 수 있을거라 생각하는 방법<br/>
 실제로 Two Stage 진행을 통해 정확도를 높히는 사례를 발견<br/>
 (https://blog.doctor-cha.com/catch-up-with-segmentation-in-12-days, 얼굴에서 머리카락 구분)
-(https://www.sciencedirect.com/science/article/pii/S2772375522000739, 옥수수잎 병변 구분)
+(https://www.sciencedirect.com/science/article/pii/S2772375522000739, 옥수수잎 병변 구분)<br/>
+
 생각해보니 이는 stride 파라미터를 조정하는 방법과 비슷한 방법론이 아닌가 생각해봄<br/>
 <br/>
 
@@ -47,4 +48,6 @@ Two Stage Segmentation 기술을 적용한다면<br/>
 원하는 방향성인지는 모르겠지만 나름 간단하게 결론을 찾을 수 있었다.<br/>
 나중에 ~톤 할때도 거창하게 바꾸려 하지말고 간단한 것부터 차근차근 바꿔보면 좋은 효과가 나지 않을까 생각한다.<br/>
 하..할 수 있겠지.....?<br/>
-
+아 그리고... 고양이 사진 전체크기와 배경사진 전체크기를 같게 하니까<br/>
+고양이가 배경에 엄청 크게 나옴... 고양이 전체크기를 유지하고 고양이의 크기만 줄여서 합성하면<br/>
+좀 더 덜 부담스럽게 나오겠지 생각한다<br/>
