@@ -11,7 +11,7 @@ cifar10v2.ipynb : +레이어층, 손실함수 변경<br/>
 
 
 1. Train History<br/>
-![image1](./cifar10v2/train_history_0199.jpg)
+![image1](./cifar10v2/train_history_0199.png)
 
 
 2. 생성이미지 품질 시각화<br/>
@@ -23,7 +23,7 @@ cifar10v2.ipynb : +레이어층, 손실함수 변경<br/>
 ## CIFAR-10 기존학습 기준 <br/>
 
 1. Train History<br/>
-![image1](./cifar10v1/train_history_0049.jpg)
+![image1](./cifar10v1/train_history_0049.png)
 
 
 2. 생성이미지 품질 시각화<br/>
