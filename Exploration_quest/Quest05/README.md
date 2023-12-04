@@ -13,8 +13,9 @@ chat_bot5~8 : 위키독스 전처리 적용, vocab_size, MAX_LENGTH, epochs 등 
 
 ## chat_bot8<br/>
 ![image1](./chat_bot_output2.png)
-
-
+<br/>
+![image1](./chat_bot_output3.png)
+<br/>
 ## 회고
 트랜스포머를 이해하는게 너무 어려웠음<br/>
 코드 따라가기가 극한으로 어려워진 노드 내용<br/>
