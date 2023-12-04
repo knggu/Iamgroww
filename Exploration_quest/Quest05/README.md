@@ -1,4 +1,4 @@
-## Segmentation
+## Transformer (chatbot)
 <br/>
 chat_bot1~4 : 특수문자 및 구두점 제거 전처리, vocab_size, MAX_LENGTH 등 수치 변경<br/>
 chat_bot5~8 : 위키독스 전처리 적용, vocab_size, MAX_LENGTH, epochs 등 수치 변경<br/>
