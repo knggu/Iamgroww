@@ -1,5 +1,5 @@
 ## AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 강임구
+- 코더 : 강임구, 조세창
 - 리뷰어 : 조필선
 
 
